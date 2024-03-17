@@ -1,0 +1,10 @@
+.Main {
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.Main h1 {
+    color: rgb(48, 48, 208);
+}

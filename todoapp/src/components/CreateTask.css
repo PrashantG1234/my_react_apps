@@ -1,0 +1,25 @@
+.CreateTask {
+    height: 100px;
+    width: 559px;
+    background-color: rgb(203, 214, 215);
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.CreateTask .input {
+    width: 293px;
+    height: 32px;
+    outline: none;
+    margin: 5px;
+}
+
+.CreateTask button {
+    width: 5.2em;
+    height: 2em;
+    background-color: rgb(198, 136, 22);
+    font-size: 1rem;
+    color: wheat;
+}
